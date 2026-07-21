@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/mark.png" alt="Pridoorki" width="120" />
+<img src="assets/mark.webp" alt="Pridoorki" width="120" />
 
 # Сборка Pridoorki
 
